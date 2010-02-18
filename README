@@ -1,0 +1,12 @@
+Die einzelnen Unterordner enthalten den Quellcode der jeweiligen Aufgabe, sowie die optimierte Version von Aufgabe 3. Außerdem ist auch das Programm zum initialisieren der Testordner.
+
+file-indexing-example-step1-solution -> Lösung der ersten Aufgabe.
+file-indexing-example-step2-solution -> Lösung der zweiten Aufgabe.
+file-indexing-example-step3          -> Quelltext der dritten Aufgabe.
+file-indexing-example-step3-better   -> Optimierte Version der dritten Aufgabe.
+file-indexing-example-testdata       -> Programm zum initialisieren der Testdaten in einem bestimmten Ordner.
+
+
+Folien.pdf                           -> Folien der Präsentation.
+Handout.pdf                          -> Handout zum Workshop.
+Uebungsaufgabe                       -> Aufgabenstellung der Übungen.
