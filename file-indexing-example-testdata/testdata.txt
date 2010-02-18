@@ -1,0 +1,8 @@
+Initialized Test Diretories below: testfolder
+======================
+Folders: 252
+======================
+Text Files: 564
+JPG Files: 591
+PDF Files: 555
+======================
